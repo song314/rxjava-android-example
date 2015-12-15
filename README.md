@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/song314/rxjava-android-example.svg)](https://travis-ci.org/song314/rxjava-android-example)
+
 RxJava Android Example
 ======================
 
